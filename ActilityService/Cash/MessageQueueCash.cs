@@ -1,5 +1,6 @@
 ﻿namespace ActilityService.Cash;
 
+
 using ActilityService.Modules;
 using System.Collections.Concurrent;
 
